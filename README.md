@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @macware1
+- 👋 Hi, I’m @macwareZeroOne
 - 👀 
-- 🌱 I’m currently learning ...Kali Linux
+- 🌱 I’m currently learning ...Debian/Mint Linux
 - 💞️ 
 - 📫 How to reach me it.tecs@outlook.com
 
