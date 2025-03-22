@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @macwareZeroOne
 - 👀 
-- 🌱 I’m currently learning ...Debian/Mint Linux GitHub
+- 🌱 I’m currently learning:
+- Debian/Arch/Mint Linux -
+- GitHub
 - 💞️ 
-- 📫 How to reach me it.tecs@outlook.com
+- 📫 Send DM 
 
